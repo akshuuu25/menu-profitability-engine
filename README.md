@@ -30,3 +30,4 @@ The interactive Tableau dashboard is organized into three executive views:
 1. **Top KPI Banner:** High-level metrics tracking Total Revenue, Gross Profit, Average Food Cost %, and Projected Next Year Profit Gain.
 2. **Menu Engineering Matrix (Scatter Plot):** Plots Annual Units Sold against Total Gross Profit, automatically segmented into 4 colored quadrants.
 3. **Strategic Pricing Table:** Item-by-item breakdown detailing current prices, unit costs, food cost percentages, and recommended next-year pricing.
+4. Interactive Tableau Dashboard: [https://public.tableau.com/views/MenuProfitabilityDashboard/MenuProfitabilityDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
