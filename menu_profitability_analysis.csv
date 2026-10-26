@@ -1,0 +1,11 @@
+item_id,item_name,category,current_price,unit_cost,annual_units_sold,gross_revenue,total_cogs,total_gross_profit,contribution_margin_per_unit,food_cost_pct,menu_classification,recommended_next_year_price,projected_next_year_revenue,projected_profit_gain
+ITM_01,Whopper Meal,Meals,12.5,4.8,45000,562500.0,216000.0,346500.0,7.7,38.4,"Puzzle (High Profit, Low Volume)",13.12,590400.0,27900.0
+ITM_02,Double Whopper Meal,Meals,15.5,6.2,22000,341000.0,136400.0,204600.0,9.3,40.0,"Puzzle (High Profit, Low Volume)",16.28,358160.0,17160.0
+ITM_03,Cheeseburger,Burgers,4.5,1.7,68000,306000.0,115600.0,190400.0,2.8,37.78,"Star (High Profit, High Volume)",4.73,321640.0,15640.0
+ITM_04,Bacon Cheese Burger,Burgers,6.8,2.6,31000,210800.0,80600.0,130200.0,4.199999999999999,38.24,"Dog (Low Profit, Low Volume)",6.8,210800.0,0.0
+ITM_05,Large Fries,Sides,4.2,0.9,85000,357000.0,76500.0,280500.0,3.3000000000000003,21.43,"Star (High Profit, High Volume)",4.41,374850.0,17850.0
+ITM_06,Medium Onion Rings,Sides,4.5,1.1,41000,184500.0,45100.00000000001,139400.0,3.4,24.44,"Dog (Low Profit, Low Volume)",4.5,184500.0,0.0
+ITM_07,Large Soft Drink,Drinks,3.8,0.45,95000,361000.0,42750.0,318250.0,3.3499999999999996,11.84,"Star (High Profit, High Volume)",3.99,379050.0,18050.0
+ITM_08,Bottled Water,Drinks,3.5,0.6,18000,63000.0,10800.0,52200.0,2.9,17.14,"Dog (Low Profit, Low Volume)",3.5,63000.0,0.0
+ITM_09,Sundae Ice Cream,Desserts,4.0,1.2,29000,116000.0,34800.0,81200.0,2.8,30.0,"Dog (Low Profit, Low Volume)",4.0,116000.0,0.0
+ITM_10,Apple Pie,Desserts,3.0,0.95,24000,72000.0,22800.0,49200.0,2.05,31.67,"Dog (Low Profit, Low Volume)",3.0,72000.0,0.0
